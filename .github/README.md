@@ -34,7 +34,6 @@
 * React.js
 * Node.js
 * MySQL
-* Bootstrap
 
 ## 📞 Contact
 
